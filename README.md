@@ -11,3 +11,5 @@ A static HTML and CSS educational website about the biological, environmental, a
 5. Deploy.
 
 The main page is `index.html`, and the styling is in `styles.css`.
+
+The About Me page uses `Image/lester.jpg` for the profile photo.
